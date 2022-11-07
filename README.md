@@ -25,7 +25,7 @@ This google drive link is for the tutorial!
 
 https://drive.google.com/file/d/1e1dwQCJTWWena1h7lNTb02dFrNmb_dLC/view?usp=sharing
 
- <img src="https://github.com/wickedslug883/EMPTRACK/blob/main/Screenshot_107.png?raw=true"/>
+ <img src="https://github.com/wickedslug883/NoteTakerExpress/blob/main/Screenshot_108.png?raw=true"/>
   
 
 
