@@ -1,0 +1,9 @@
+{
+  "name": "NoteTakerExpress",
+  "version": "1.0.0",
+  "author": "Daniel Amadril <gmaleuser41@gmail.com>",
+  
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
