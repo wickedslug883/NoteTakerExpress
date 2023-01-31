@@ -20,6 +20,7 @@ With User input, have the option to utilize al the various options within the te
 Dependencies: Express ||  run specified commands (npm install, npm run start)  within terminal.
 
 ## Usage
+DEPLOYED HEROKU APP : https://notetaker-chorus.herokuapp.com/
 
 This google drive link is for the tutorial!
 
